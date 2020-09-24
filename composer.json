@@ -1,5 +1,5 @@
 {
-  "name": "Jslmariano/basic-authentication-log",
+  "name": "jslmariano/basic-authentication-log",
   "description": "Laravel Authentication Log provides authentication logger and notification for Laravel.",
   "keywords": [
     "laravel",
